@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Hello,+my+name+is+Itai;)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/90986809/188566001-cabc114a-d1f0-4f8d-abb3-66b1a77b1dd4.gif" width="100" height="100" align="right" >
-I am a third year student at the University of British columbia studying Engineering Physics. My academic interests include Electrical engineering, Computer Science, Math, and Physics. This account is for me to upload projects that I am working on both in school, as well as personal projects. If you're inspired by anything uploaded here, feel free to replicate it!
+I am a third year student at the University of British columbia studying Engineering Physics. My academic interests include Electrical engineering, Computer Science, Math, and Physics. Here I've uploaded projects that I am working on both in school, as well as personal projects. If you're inspired by anything uploaded here, feel free to replicate it!
 
 
 ### ⚙️ &nbsp; Git Analytics
